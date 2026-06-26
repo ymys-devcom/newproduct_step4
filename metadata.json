@@ -1,0 +1,92 @@
+{
+  "toolscriptVersion": "1.0.0",
+  "version": "43.0.9",
+  "pageUuid": "853d5618-1cdf-11ef-84dd-bf18abdfbc52",
+  "appTemplate": {
+    "appMaxWidth": "1600px",
+    "experimentalFeatures": {
+      "object": {
+        "sourceControlTemplateDehydration": false
+      }
+    },
+    "pageCodeFolders": {
+      "object": {
+        "refresh_lookups": {
+          "array": []
+        },
+        "wa_msrp": {
+          "array": []
+        },
+        "wa_selling_price": {
+          "array": []
+        },
+        "wa_av_price": {
+          "array": []
+        },
+        "isWAOnly": {
+          "array": []
+        },
+        "init_draft": {
+          "array": []
+        },
+        "init_draft_from_db": {
+          "array": []
+        },
+        "query_draft_details": {
+          "array": []
+        },
+        "query_draft_sites": {
+          "array": []
+        },
+        "init_sites_from_db": {
+          "array": []
+        },
+        "is_wa_only": {
+          "array": []
+        },
+        "wa_list_price": {
+          "array": []
+        },
+        "wa_currency": {
+          "array": []
+        },
+        "upc_code": {
+          "array": []
+        },
+        "modalUPCDuplicate": {
+          "array": []
+        },
+        "query_duplicates_check": {
+          "array": []
+        },
+        "steps": {
+          "array": []
+        },
+        "query_draft_create": {
+          "array": []
+        },
+        "query_draft_update": {
+          "array": []
+        },
+        "query_conditions": {
+          "array": []
+        }
+      }
+    },
+    "notificationsSettings": {
+      "object": {
+        "globalQueryShowFailureToast": true,
+        "globalQueryShowSuccessToast": false,
+        "globalQueryToastDuration": 4.5
+      }
+    },
+    "isFetching": true,
+    "appThemeName": "Custom app theme",
+    "preloadedAppJSLinks": {
+      "array": [
+        "https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/4.3.6/fxparser.min.js"
+      ]
+    },
+    "version": "3.334.0"
+  }
+}

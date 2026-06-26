@@ -1,0 +1,1 @@
+CALL GetProductDraft({{draftID.value}})

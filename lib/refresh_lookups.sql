@@ -1,0 +1,1 @@
+select * from {{ mainmenu1.out_invalidate }}

@@ -1,0 +1,416 @@
+{
+  "breadcrumbs1": {
+    "row": 0.4,
+    "height": 0.6,
+    "width": 12
+  },
+  "button1": {
+    "rowGroup": "footer",
+    "subcontainer": "modalUPCDuplicate",
+    "col": 4,
+    "height": 1,
+    "width": 4
+  },
+  "button2": {
+    "container": "steppedContainer",
+    "rowGroup": "footer",
+    "row": 1,
+    "height": 1,
+    "width": 2
+  },
+  "buttonGroup1": {
+    "rowGroup": "footer",
+    "subcontainer": "modalFormValidation",
+    "height": 1,
+    "width": 12
+  },
+  "checkbox_active_only": {
+    "container": "form_wa",
+    "row": 5.4,
+    "col": 8,
+    "height": 0.6
+  },
+  "closeButton1": {
+    "container": "form_wa",
+    "row": 7.2,
+    "col": 6,
+    "height": 1,
+    "width": 1
+  },
+  "condition": {
+    "container": "form_wa",
+    "row": 6,
+    "height": 0.2,
+    "width": 12
+  },
+  "container1": {
+    "container": "form_wa",
+    "row": 8.8,
+    "height": 0.2,
+    "width": 12
+  },
+  "container2": {
+    "container": "form_wa",
+    "row": 9.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "container3": {
+    "container": "form_wa",
+    "row": 9.4,
+    "height": 0.2,
+    "width": 12
+  },
+  "containerTitle10": {
+    "container": "container2",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle11": {
+    "container": "container3",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle8": {
+    "container": "form_wa",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "containerTitle9": {
+    "container": "container1",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "formButton7": {
+    "container": "form_wa",
+    "rowGroup": "footer",
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "form_wa": {
+    "container": "steppedContainer",
+    "subcontainer": "8c791",
+    "height": 1,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "image1": {
+    "container": "form_wa",
+    "row": 7.8,
+    "col": 7,
+    "height": 1,
+    "width": 1
+  },
+  "link1": {
+    "row": 11.4,
+    "height": 0.6,
+    "width": 2
+  },
+  "link2": {
+    "row": 3.4,
+    "col": 10,
+    "height": 0.6,
+    "width": 2
+  },
+  "list_price": {
+    "container": "form_wa",
+    "row": 7.8,
+    "height": 0.2,
+    "width": 6
+  },
+  "list_price_currency": {
+    "container": "form_wa",
+    "row": 9,
+    "col": 6,
+    "height": 0.2,
+    "width": 1
+  },
+  "mainmenu1": {
+    "height": 0.4,
+    "width": 12
+  },
+  "modalCloseButton1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFormValidation",
+    "col": 9,
+    "height": 1
+  },
+  "modalCloseButton2": {
+    "rowGroup": "header",
+    "subcontainer": "modalUPCDuplicate",
+    "col": 9,
+    "height": 1
+  },
+  "modalTitle1": {
+    "rowGroup": "header",
+    "subcontainer": "modalFormValidation",
+    "height": 0.6,
+    "width": 9
+  },
+  "modalTitle2": {
+    "rowGroup": "header",
+    "subcontainer": "modalUPCDuplicate",
+    "height": 0.6,
+    "width": 9
+  },
+  "nextButton": {
+    "container": "steppedContainer",
+    "rowGroup": "footer",
+    "col": 10,
+    "height": 1,
+    "width": 2
+  },
+  "prevButton": {
+    "container": "steppedContainer",
+    "rowGroup": "footer",
+    "height": 1,
+    "width": 2
+  },
+  "spacer1": {
+    "row": 1,
+    "height": 0.8,
+    "width": 12
+  },
+  "spacer2": {
+    "row": 4,
+    "height": 0.4,
+    "width": 12
+  },
+  "spacer3": {
+    "row": 10.6,
+    "height": 0.8,
+    "width": 12
+  },
+  "steppedContainer": {
+    "row": 4.4,
+    "height": 6.2,
+    "width": 12,
+    "stackPosition": {
+      "object": {
+        "ordinal": 0,
+        "widthType": "fixed",
+        "width": 0,
+        "height": 0
+      }
+    }
+  },
+  "steps": {
+    "container": "steppedContainer",
+    "rowGroup": "header",
+    "row": 0.8,
+    "height": 0.8,
+    "width": 12
+  },
+  "steps2": {
+    "container": "steppedContainer",
+    "rowGroup": "header",
+    "height": 0.6,
+    "width": 12
+  },
+  "table1": {
+    "subcontainer": "modalUPCDuplicate",
+    "row": 0.6,
+    "height": 1,
+    "width": 12
+  },
+  "text10": {
+    "row": 1.8,
+    "height": 0.6,
+    "width": 9
+  },
+  "text11": {
+    "container": "container1",
+    "subcontainer": "1eaa2",
+    "row": 0,
+    "col": 7,
+    "height": 1,
+    "width": 5
+  },
+  "text12": {
+    "subcontainer": "modalUPCDuplicate",
+    "height": 0.6,
+    "width": 12
+  },
+  "text135": {
+    "row": 11.4,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "text136": {
+    "row": 12,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "text9": {
+    "subcontainer": "modalFormValidation",
+    "height": 0.6,
+    "width": 12
+  },
+  "text_no_parent": {
+    "container": "form_wa",
+    "row": 7.2,
+    "col": 7,
+    "height": 0.6,
+    "width": 5
+  },
+  "text_parent_name": {
+    "container": "form_wa",
+    "row": 7.8,
+    "col": 8,
+    "height": 1,
+    "width": 4
+  },
+  "wa_av_price": {
+    "container": "container3",
+    "subcontainer": "1eaa2",
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_cost_currency": {
+    "container": "container1",
+    "subcontainer": "1eaa2",
+    "row": 0,
+    "col": 6,
+    "height": 0.2,
+    "width": 1
+  },
+  "wa_cost_currency2": {
+    "container": "container2",
+    "subcontainer": "1eaa2",
+    "col": 6,
+    "height": 0.2,
+    "width": 1
+  },
+  "wa_cost_currency3": {
+    "container": "container3",
+    "subcontainer": "1eaa2",
+    "col": 6,
+    "height": 0.2,
+    "width": 1
+  },
+  "wa_currency": {
+    "container": "container1",
+    "subcontainer": "1eaa2",
+    "row": 0.2,
+    "col": 6,
+    "height": 0.2,
+    "width": 1
+  },
+  "wa_eta": {
+    "container": "form_wa",
+    "row": 7.4,
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_is_coupon_allowed": {
+    "container": "form_wa",
+    "row": 9.6,
+    "height": 0.8,
+    "width": 6
+  },
+  "wa_item_code": {
+    "container": "form_wa",
+    "row": 1,
+    "height": 0.2,
+    "width": 12
+  },
+  "wa_list_price": {
+    "container": "container1",
+    "subcontainer": "1eaa2",
+    "row": 0,
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_manfuacturer": {
+    "container": "form_wa",
+    "row": 1.8,
+    "height": 0.2,
+    "width": 8
+  },
+  "wa_mpn": {
+    "container": "form_wa",
+    "row": 1.2,
+    "height": 0.2,
+    "width": 12
+  },
+  "wa_msrp": {
+    "container": "form_wa",
+    "row": 9,
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_parent_id": {
+    "container": "form_wa",
+    "row": 7.2,
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_priority": {
+    "container": "form_wa",
+    "row": 0.2,
+    "height": 0.8,
+    "width": 12
+  },
+  "wa_product_name": {
+    "container": "form_wa",
+    "row": 1.6,
+    "height": 0.2,
+    "width": 12
+  },
+  "wa_product_subtype": {
+    "container": "form_wa",
+    "row": 7,
+    "height": 0.2,
+    "width": 12
+  },
+  "wa_product_type": {
+    "container": "form_wa",
+    "row": 6.2,
+    "height": 0.8,
+    "width": 12
+  },
+  "wa_sales_channels": {
+    "container": "form_wa",
+    "row": 11,
+    "height": 0.6,
+    "width": 12
+  },
+  "wa_selling_price": {
+    "container": "container2",
+    "subcontainer": "1eaa2",
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_sold_on": {
+    "container": "form_wa",
+    "row": 10.4,
+    "height": 2.4,
+    "width": 12
+  },
+  "wa_special_order": {
+    "container": "form_wa",
+    "row": 7.6,
+    "height": 0.2,
+    "width": 6
+  },
+  "wa_upc": {
+    "container": "form_wa",
+    "row": 1.4,
+    "height": 0.2,
+    "width": 12
+  }
+}

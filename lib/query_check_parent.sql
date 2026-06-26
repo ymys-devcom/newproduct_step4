@@ -1,0 +1,1 @@
+CALL `frGetModelById`({{ ProductID }});

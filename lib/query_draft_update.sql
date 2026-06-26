@@ -1,0 +1,6 @@
+CALL frUpdateProductAndSitesDraft({{ ProductDraftID }}, {{ ProductCode }}, {{ Description }}, {{ Category }}, {{ ProductStatus }}, {{ Buyer }}, {{ WeightUOM }}, {{ Weight }}, {{ Brand }}, {{ CustomsDutyRate }}, {{ FreightPercent }},
+{{ LandedCost }}, {{ DimensionalUnit }}, {{ Height }}, {{ Width }}, {{ Length }}, {{ ECCN }}, {{ ITAR }}, {{ Condition }}, {{ IsHazmat }}, {{ HazMatUN }}, {{ Description2 }},
+{{ ItemModel }}, {{ CountryOfOrigin }}, {{ PackStockConv }}, {{ IssuePack }}, {{ InsuranceLiabilityCode }}, {{ BarcodeX3 }}, {{ CanadaAdmissible }}, {{ CasePackUOM }}, 
+{{ Caliber }}, {{ DLXBarcode }}, {{ DLXPartUnit }}, {{ DLXLineNo }}, {{ SupplierNumber }}, {{ MPN }}, {{ SupplierCasePackQuantity }}, {{ SupplierInsuranceLiabilityCode }}, {{ PriceList }}, {{ Currency }}, 
+{{ AccountingCode }}, {{ HTC }}, {{ Priority }}, {{ ProductType }}, {{ ProductSubType }}, {{ SalesChannels }}, {{ParentID}}, {{BrandCode}}, {{ETA}}, {{DistributionZone}}, {{FBAProduct}}, {{AmazonOnly}}, 
+{{ IsCouponAllowed }}, {{ SpecialOrderWeeks }}, {{ MSRP }}, {{ SellingPrice }}, {{ AVPrice }}, {{ ItemType }}, {{ WAOnly }}, {{ SAGEOnly }}, {{ IsImported }}, {{ AssemblyTime }}, {{ ProductSites }}, {{ ChangedDateTime }}, {{ ChangedBy }} )
